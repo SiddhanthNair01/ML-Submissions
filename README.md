@@ -1,4 +1,4 @@
-# ML-Submissions
+# ML Assignments
 
 Siddhanth Nair
 J040
